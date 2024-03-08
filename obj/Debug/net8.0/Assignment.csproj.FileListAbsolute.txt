@@ -1032,3 +1032,4 @@
 /Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/obj/Debug/net8.0/scopedcss/Layout/PublicLayout.razor.rz.scp.css
 /Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/obj/Debug/net8.0/scopedcss/Pages/Login.razor.rz.scp.css
 /Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/obj/Debug/net8.0/scopedcss/Pages/Home.razor.rz.scp.css
+/Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/obj/Debug/net8.0/Assignment.sourcelink.json

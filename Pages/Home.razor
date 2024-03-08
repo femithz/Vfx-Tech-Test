@@ -65,7 +65,7 @@
 @* HTML Section ends *@
 
 @code {
-    @* Default value set for fromSymbol *@
+    @* Default value set for fromSymbol *@ß
     private string fromSymbol = "GBP";
 
     @* Default value set for toSymbol *@
@@ -73,7 +73,8 @@
     private DateTime lastRefreshDate;
     private List<ForexData> forexData = new List<ForexData>();
 
-    @* My generated apikey from Alphavantage NB: This can be put in an environment variable for security sake. *@
+    @* My generated apikey from Alphavantage NB: This can be put in an environment variable for security sake. This needs to be change to enable data to come from alphavantage cause rate limit exhausted *@
+    
     private string apiKey = "XKDFENATL7UYWLL8";
 
     protected override async Task OnInitializedAsync()

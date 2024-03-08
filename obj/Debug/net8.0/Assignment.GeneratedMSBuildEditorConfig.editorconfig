@@ -1,0 +1,51 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Assignment
+build_property.RootNamespace = Assignment
+build_property.ProjectDir = /Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xs8ae75jyn
+
+[/Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-knojkty4d2
+
+[/Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/Layout/PublicLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L1B1YmxpY0xheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-e5u2nccpcb
+
+[/Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-j5rf0rr3cg
+
+[/Users/ajayioluwafemi/work/Job Applications Cv/VFX/Assignment/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0y0uxddjmv

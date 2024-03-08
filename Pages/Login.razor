@@ -1,0 +1,36 @@
+@layout PublicLayout
+@page "/"
+@inject NavigationManager NavigationManager
+
+<PageTitle>Login</PageTitle>
+
+@* HTML Section start *@
+<div class="body">
+    <div class="text-center">
+        <div class="card">
+            <form class="form-signin" @onsubmit="HandleSubmit">
+                <img class="mb-4" src="logo-color.svg" alt="" width="82" height="82">
+
+                <input type="text" @bind="ClientId" class="form-control" placeholder="CLIENT ID" required>
+
+                <input type="text" @bind="UserId" class="form-control" placeholder="USER ID" required>
+
+                <input type="password" @bind="Password" class="form-control" placeholder="*********" required>
+
+                <button class="btn btn-lg btn-brand btn-block brand" type="submit">Sign me in</button>
+            </form>
+        </div>
+    </div>
+</div>
+@* HTML Section ends *@
+
+@code {
+    private string ClientId { get; set; } = "dummyClientId"; // Dummy data for ClientId
+    private string UserId { get; set; } = "dummyUserId"; // Dummy data for UserId
+    private string Password { get; set; } = "dummyPassword"; // Dummy data for Password
+
+    private void HandleSubmit()
+    {
+        NavigationManager.NavigateTo("/home");
+    }
+}
